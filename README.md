@@ -9,6 +9,7 @@
 [![License](https://img.shields.io/badge/license-Freeware-green)](#ліцензія)
 
 ### [Підтримати розробку програми](https://donatello.to/arnoldovich)
+Підтримка є добровільною і не впливає на доступність функцій програми.
 
 ## Завантаження
 
