@@ -98,6 +98,20 @@ SHA-256 інсталятора версії 4.21.5:
 9C6F846A68359493036866448A03D65AC52F286732E188AD9EBABF44F8745198
 ```
 
+## Знімки екрана
+
+<p align="center">
+  <a href="screenshots/Main page - Light.png">
+    <img src="screenshots/main-window.png" alt="Головне вікно" width="280">
+  </a>
+  <a href="screenshots/effects.png">
+    <img src="screenshots/effects.png" alt="Налаштування ефектів" width="280">
+  </a>
+  <a href="screenshots/export-settings.png">
+    <img src="screenshots/export-settings.png" alt="Параметри експорту" width="280">
+  </a>
+</p>
+
 ## Видалення програми
 
 Програму можна видалити стандартними засобами Windows:
