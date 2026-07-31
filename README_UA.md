@@ -101,14 +101,14 @@ SHA-256 інсталятора версії 4.21.5:
 ## Знімки екрана
 
 <p align="center">
-  <a href="screenshots/Main page - Light.png">
-    <img src="screenshots/main-window.png" alt="Головне вікно" width="280">
+  <a href="screenshots/Main-page-Light.png">
+    <img src="screenshots/Main-page-Light.png" alt="Головне вікно" width="280">
   </a>
-  <a href="screenshots/effects.png">
-    <img src="screenshots/effects.png" alt="Налаштування ефектів" width="280">
+  <a href="screenshots/Main-page-Light.png">
+    <img src="screenshots/Main-page-Light.png" alt="Налаштування ефектів" width="280">
   </a>
-  <a href="screenshots/export-settings.png">
-    <img src="screenshots/export-settings.png" alt="Параметри експорту" width="280">
+  <a href="screenshots/Main-page-Light.png">
+    <img src="screenshots/Main-page-Light.png" alt="Параметри експорту" width="280">
   </a>
 </p>
 
