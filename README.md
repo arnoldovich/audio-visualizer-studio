@@ -8,6 +8,8 @@
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-blue)](#системні-вимоги)
 [![License](https://img.shields.io/badge/license-Freeware-green)](#ліцензія)
 
+### [Підтримати розробку програми](https://donatello.to/arnoldovich)
+
 ## Завантаження
 
 Останню стабільну версію можна завантажити на сторінці:
