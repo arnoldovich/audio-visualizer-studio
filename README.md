@@ -3,7 +3,7 @@
 
 Free Windows program for creating visualizations of your music compositions. Take your mp3 or waf, add a background image, adjust effects and upload to YouTube or social networks.
 
-Безкоштовна Windows-програма для створення візуалізацій ваших музикальних композицій. Берете ваш mp3 або waf, додаєте зображення фону, налаштовуєте ефекти і завантажуєте на YouTube або в соцмережах.
+Безкоштовна Windows-програма для створення візуалізацій ваших музикальних композицій. Берете ваш mp3 або waf, додаєте зображення фону, налаштовуєте ефекти і завантажуєте на YouTube або в соцмережі.
 
 ## Choose your language / Оберіть мову
 
