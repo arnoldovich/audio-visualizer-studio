@@ -102,13 +102,16 @@ SHA-256 інсталятора версії 4.21.5:
 
 <p align="center">
   <a href="screenshots/Main-page-Light.png">
-    <img src="screenshots/Main-page-Light.png" alt="Головне вікно" width="280">
+    <img src="screenshots/Main-page-Light.png" alt="Головне вікно. Світла тема" width="280">
   </a>
-  <a href="screenshots/Main-page-Light.png">
-    <img src="screenshots/Main-page-Light.png" alt="Налаштування ефектів" width="280">
+  <a href="screenshots/Main-page-Sand.png">
+    <img src="screenshots/Main-page-Sand.png" alt="Головне вікно. Пісочна тема" width="280">
   </a>
-  <a href="screenshots/Main-page-Light.png">
-    <img src="screenshots/Main-page-Light.png" alt="Параметри експорту" width="280">
+  <a href="screenshots/Main-page-OceanBlue.png">
+    <img src="screenshots/Main-page-OceanBlue.png" alt="Головне вікно. Тема Голубий океан" width="280">
+  </a>
+  <a href="screenshots/Main-page-Midnight-Black.png">
+    <img src="screenshots/Main-page-Midnight-Black.png" alt="Головне вікно. Темна тема" width="280">
   </a>
 </p>
 
