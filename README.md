@@ -133,4 +133,4 @@ Audio Visualizer Studio розповсюджується як безкоштов
 
 Copyright © 2026 **arnoldovich**.  
 All rights reserved.
-```
+
